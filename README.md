@@ -5,6 +5,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lx02918/lx02918/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lx02918/lx02918/output/github-contribution-grid-snake.svg">
 </picture>
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!--
 **lx02918/lx02918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
