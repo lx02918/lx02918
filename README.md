@@ -8,6 +8,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Windows11任务栏失灵解决方案](https://www.lx02918.ltd/2025/01/31/Windows11-tastbar-failed/)
+- [go学习记录——第十五天](https://www.lx02918.ltd/2025/01/05/go-study-fifteenth-day/)
+- [go学习记录——第十四天](https://www.lx02918.ltd/2025/01/03/go-study-fourteenth-day/)
+- [go学习记录——第十三天](https://www.lx02918.ltd/2024/12/07/go-study-thirteenth-day/)
+- [go学习记录——第十二天](https://www.lx02918.ltd/2024/12/01/go-study-twelfth-day/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
