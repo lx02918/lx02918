@@ -8,11 +8,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Web 网页剪裁、iPhone Safari Web Clipper 和 AI 问答（AI 知识库）](https://www.lx02918.ltd/2025/03/11/obsidian-web-clipper-safari-ai-knowledge-base/)
 - [Obsidian 双端同步教程：Windows 与 iOS 设置全攻略](https://www.lx02918.ltd/2025/03/10/obsidian-windows-ios-sync-settings/)
 - [go学习记录——第十六天](https://www.lx02918.ltd/2025/03/06/go-study-sixteenth-day/)
 - [Fix iOS 18.4 Beta 2 No Signal After Update](https://www.lx02918.ltd/2025/03/05/Fix-iOS-18-4-Beta-2-No-Signal-After-Update/)
 - [iOS 18.4 Beta 2 更新后无信号解决指南](https://www.lx02918.ltd/2025/03/05/iOS-18-4-Beta-2-%E6%9B%B4%E6%96%B0%E5%90%8E%E6%97%A0%E4%BF%A1%E5%8F%B7%E8%A7%A3%E5%86%B3%E6%8C%87%E5%8D%97/)
-- [Windows11任务栏失灵解决方案](https://www.lx02918.ltd/2025/01/31/Windows11-tastbar-failed/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
