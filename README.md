@@ -8,11 +8,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [网易笔试](https://www.lx02918.ltd/2025/03/18/NetEase-test/)
 - [小米笔试](https://www.lx02918.ltd/2025/03/12/mi-test/)
 - [Web 网页剪裁、iPhone Safari Web Clipper 和 AI 问答（AI 知识库）](https://www.lx02918.ltd/2025/03/11/obsidian-web-clipper-safari-ai-knowledge-base/)
 - [Obsidian 双端同步教程：Windows 与 iOS 设置全攻略](https://www.lx02918.ltd/2025/03/10/obsidian-windows-ios-sync-settings/)
 - [go学习记录——第十六天](https://www.lx02918.ltd/2025/03/06/go-study-sixteenth-day/)
-- [Fix iOS 18.4 Beta 2 No Signal After Update](https://www.lx02918.ltd/2025/03/05/Fix-iOS-18-4-Beta-2-No-Signal-After-Update/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
